@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham-Pate1
+- 👋 Hi, I’m Shubham Patel
 - 👀 I’m interested in Coding and creating new application
 - 🌱 I’m currently learning Cloud and DevOps
 - 💞️ I’m looking to collaborate on Cloud and DevOps and Flutter
